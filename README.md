@@ -1,16 +1,58 @@
-### Hi there 👋
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos+a+mi+perfil!+👋;Me+llamo+Fernando+Gomez;+Soy+un+Frontend+Developer;Enfocado+en+crear+soluciones+💪)
 
-<!--
-**Ferdeveloperr/Ferdeveloperr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
-Here are some ideas to get you started:
+<div align="center">
+<div align="center">
+<a href="https://facebook.com/👽" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://twitter.com/👽" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  
+<a href="https://www.youtube.com/👽" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a> 
+<a href="https://www.tiktok.com/👽" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
+<a href="https://www.instagram.com/👽/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/👽/)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:👽@gmail.com)](mailto:👽@gmail.com)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/👽)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@👽)
+</div>
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+
+```mermaid
+graph TD;
+    Front-End-->HTML5;
+    Front-End-->CSS3;
+    Front-End-->JavaScript;
+    Front-End-->React;
+    Front-End-->XML;
+    Front-End-->JSON;
+    Front-End-->TypeScript;
+```
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+<p align="center">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript">    
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="TailWindCss">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="48" title="MUI">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48" title="Sass">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" width="48" title="StyledComponents">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="48"  title="Vite">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" title="Netlify">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="48" title="Vercel">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs">   
+<p/>
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
