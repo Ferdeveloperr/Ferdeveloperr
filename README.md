@@ -55,4 +55,10 @@ graph TD;
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
+
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilgkrishnan&layout=compact&hide=html" alt="akhilgkrishnan" /></p>
+
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
