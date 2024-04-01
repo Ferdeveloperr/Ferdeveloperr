@@ -55,9 +55,16 @@ graph TD;
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
+<br/>
+<br/>
 
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilgkrishnan&layout=compact&hide=html" alt="akhilgkrishnan" /></p>
+<a href="https://github.com/Davekibh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferdeveloperr&theme=tokyonight" />
+  </a>
 
+
+<br/>
+<br/>
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
