@@ -30,6 +30,22 @@ graph TD;
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
+```mermaid
+graph TD;
+    Back-End-->Node.js;
+    Back-End-->Express;
+    Back-End-->MongoDB;
+    Back-End-->Firebase;
+    Back-End-->SQL;
+    Back-End-->PostgreSQL;
+
+
+
+```
+
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
