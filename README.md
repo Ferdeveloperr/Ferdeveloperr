@@ -25,13 +25,7 @@ graph TD;
     Front-End-->JSON;
     Front-End-->TypeScript;
 
-graph TD;
-    Back-End-->Node.js;
-    Back-End-->Express;
-    Back-End-->MongoDB;
-    Back-End-->Firebase;
-    Back-End-->SQL;
-    Back-End-->PostgreSQL;
+
 ```
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
